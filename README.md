@@ -1,0 +1,2 @@
+# GoogleCTFPasteuize
+PASTEURIZE - Google CTF  This was a super fun challenge that really tests your process and thoroughness when assessing a web application. Admittedly, I did not complete the challenge before the CTF was over, but that shouldn’t stop you from following through on finishing a challenge. Doing this challenge, you’ll learn some cool tricks with NodeJS, get better with source code review, and improve your web app response analysis.
